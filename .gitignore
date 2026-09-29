@@ -1,0 +1,10 @@
+.DS_Store
+dist/
+release/
+review-backups/
+REVIEW.md
+Resources/icon.iconset/
+__pycache__/
+*.pyc
+.env
+.env.*
